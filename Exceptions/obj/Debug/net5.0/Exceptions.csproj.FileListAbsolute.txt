@@ -1,0 +1,16 @@
+C:\Users\turek\source\repos\CSharpInDepth\Exceptions\bin\Debug\net5.0\Exceptions.exe
+C:\Users\turek\source\repos\CSharpInDepth\Exceptions\bin\Debug\net5.0\Exceptions.deps.json
+C:\Users\turek\source\repos\CSharpInDepth\Exceptions\bin\Debug\net5.0\Exceptions.runtimeconfig.json
+C:\Users\turek\source\repos\CSharpInDepth\Exceptions\bin\Debug\net5.0\Exceptions.runtimeconfig.dev.json
+C:\Users\turek\source\repos\CSharpInDepth\Exceptions\bin\Debug\net5.0\Exceptions.dll
+C:\Users\turek\source\repos\CSharpInDepth\Exceptions\bin\Debug\net5.0\ref\Exceptions.dll
+C:\Users\turek\source\repos\CSharpInDepth\Exceptions\bin\Debug\net5.0\Exceptions.pdb
+C:\Users\turek\source\repos\CSharpInDepth\Exceptions\obj\Debug\net5.0\Exceptions.csprojAssemblyReference.cache
+C:\Users\turek\source\repos\CSharpInDepth\Exceptions\obj\Debug\net5.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turek\source\repos\CSharpInDepth\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\turek\source\repos\CSharpInDepth\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfo.cs
+C:\Users\turek\source\repos\CSharpInDepth\Exceptions\obj\Debug\net5.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\turek\source\repos\CSharpInDepth\Exceptions\obj\Debug\net5.0\Exceptions.dll
+C:\Users\turek\source\repos\CSharpInDepth\Exceptions\obj\Debug\net5.0\ref\Exceptions.dll
+C:\Users\turek\source\repos\CSharpInDepth\Exceptions\obj\Debug\net5.0\Exceptions.pdb
+C:\Users\turek\source\repos\CSharpInDepth\Exceptions\obj\Debug\net5.0\Exceptions.genruntimeconfig.cache

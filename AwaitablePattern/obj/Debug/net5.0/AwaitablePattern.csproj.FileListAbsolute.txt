@@ -1,0 +1,16 @@
+C:\Users\turek\source\repos\CSharpInDepth\AwaitablePattern\obj\Debug\net5.0\AwaitablePattern.csprojAssemblyReference.cache
+C:\Users\turek\source\repos\CSharpInDepth\AwaitablePattern\obj\Debug\net5.0\AwaitablePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turek\source\repos\CSharpInDepth\AwaitablePattern\obj\Debug\net5.0\AwaitablePattern.AssemblyInfoInputs.cache
+C:\Users\turek\source\repos\CSharpInDepth\AwaitablePattern\obj\Debug\net5.0\AwaitablePattern.AssemblyInfo.cs
+C:\Users\turek\source\repos\CSharpInDepth\AwaitablePattern\obj\Debug\net5.0\AwaitablePattern.csproj.CoreCompileInputs.cache
+C:\Users\turek\source\repos\CSharpInDepth\AwaitablePattern\bin\Debug\net5.0\AwaitablePattern.exe
+C:\Users\turek\source\repos\CSharpInDepth\AwaitablePattern\bin\Debug\net5.0\AwaitablePattern.deps.json
+C:\Users\turek\source\repos\CSharpInDepth\AwaitablePattern\bin\Debug\net5.0\AwaitablePattern.runtimeconfig.json
+C:\Users\turek\source\repos\CSharpInDepth\AwaitablePattern\bin\Debug\net5.0\AwaitablePattern.runtimeconfig.dev.json
+C:\Users\turek\source\repos\CSharpInDepth\AwaitablePattern\bin\Debug\net5.0\AwaitablePattern.dll
+C:\Users\turek\source\repos\CSharpInDepth\AwaitablePattern\bin\Debug\net5.0\ref\AwaitablePattern.dll
+C:\Users\turek\source\repos\CSharpInDepth\AwaitablePattern\bin\Debug\net5.0\AwaitablePattern.pdb
+C:\Users\turek\source\repos\CSharpInDepth\AwaitablePattern\obj\Debug\net5.0\AwaitablePattern.dll
+C:\Users\turek\source\repos\CSharpInDepth\AwaitablePattern\obj\Debug\net5.0\ref\AwaitablePattern.dll
+C:\Users\turek\source\repos\CSharpInDepth\AwaitablePattern\obj\Debug\net5.0\AwaitablePattern.pdb
+C:\Users\turek\source\repos\CSharpInDepth\AwaitablePattern\obj\Debug\net5.0\AwaitablePattern.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FirstEncounterWithAsync/1.0.0": {
+        "runtime": {
+          "FirstEncounterWithAsync.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirstEncounterWithAsync/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
